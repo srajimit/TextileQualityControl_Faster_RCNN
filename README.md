@@ -47,5 +47,5 @@ python -m streamlit run app.py
 <img width="1483" height="723" alt="image" src="https://github.com/user-attachments/assets/0c1b43ef-b571-4f93-a4e3-a0eaa1d2dc39" />
 It will automatically launch streamlit in the local host 8501
 <img width="1410" height="552" alt="image" src="https://github.com/user-attachments/assets/17b60398-12e5-43b8-8cb2-a0b772e0a84f" />
-sample output is specified in the output document
+sample output is specified in the output screenshot document
 
